@@ -1,0 +1,72 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address               Foreign Address             State       PID/Program name
+tcp        0      0 10.20.0.13:59716            209.54.182.89:443           ESTABLISHED 6489/ssm-session-wo
+tcp        0      0 10.20.0.13:52226            52.46.146.146:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:59804            209.54.182.89:443           ESTABLISHED 6632/ssm-session-wo
+tcp        0      0 10.20.0.13:48844            52.46.132.109:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:47710            52.46.145.233:443           TIME_WAIT   -
+tcp        0      0 10.20.0.13:59732            209.54.182.89:443           ESTABLISHED 6501/ssm-session-wo
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address               Foreign Address             State       PID/Program name
+tcp        0      0 10.20.0.13:59716            209.54.182.89:443           ESTABLISHED 6489/ssm-session-wo
+tcp        0      0 10.20.0.13:52226            52.46.146.146:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:59804            209.54.182.89:443           ESTABLISHED 6632/ssm-session-wo
+tcp        0      0 10.20.0.13:48844            52.46.132.109:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:47710            52.46.145.233:443           TIME_WAIT   -
+tcp        0      0 10.20.0.13:59732            209.54.182.89:443           ESTABLISHED 6501/ssm-session-wo
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address               Foreign Address             State       PID/Program name
+tcp        0      0 10.20.0.13:59716            209.54.182.89:443           ESTABLISHED 6489/ssm-session-wo
+tcp        0      0 10.20.0.13:52226            52.46.146.146:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:59804            209.54.182.89:443           ESTABLISHED 6632/ssm-session-wo
+tcp        0      0 10.20.0.13:48844            52.46.132.109:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:47710            52.46.145.233:443           TIME_WAIT   -
+tcp        0      0 10.20.0.13:59732            209.54.182.89:443           ESTABLISHED 6501/ssm-session-wo
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address               Foreign Address             State       PID/Program name
+tcp        0      0 10.20.0.13:59716            209.54.182.89:443           ESTABLISHED 6489/ssm-session-wo
+tcp        0      0 10.20.0.13:52226            52.46.146.146:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:59804            209.54.182.89:443           ESTABLISHED 6632/ssm-session-wo
+tcp        0      0 10.20.0.13:48844            52.46.132.109:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:47710            52.46.145.233:443           TIME_WAIT   -
+tcp        0      0 10.20.0.13:59732            209.54.182.89:443           ESTABLISHED 6501/ssm-session-wo
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address               Foreign Address             State       PID/Program name
+tcp        0      0 10.20.0.13:59716            209.54.182.89:443           ESTABLISHED 6489/ssm-session-wo
+tcp        0      0 10.20.0.13:52226            52.46.146.146:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:59804            209.54.182.89:443           ESTABLISHED 6632/ssm-session-wo
+tcp        0      0 10.20.0.13:48844            52.46.132.109:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:47710            52.46.145.233:443           TIME_WAIT   -
+tcp        0      0 10.20.0.13:59732            209.54.182.89:443           ESTABLISHED 6501/ssm-session-wo
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address               Foreign Address             State       PID/Program name
+tcp        0      0 10.20.0.13:59716            209.54.182.89:443           ESTABLISHED 6489/ssm-session-wo
+tcp        0      0 10.20.0.13:52226            52.46.146.146:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:59804            209.54.182.89:443           ESTABLISHED 6632/ssm-session-wo
+tcp        0      0 10.20.0.13:48844            52.46.132.109:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:47710            52.46.145.233:443           TIME_WAIT   -
+tcp        0      0 10.20.0.13:59732            209.54.182.89:443           ESTABLISHED 6501/ssm-session-wo
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address               Foreign Address             State       PID/Program name
+tcp        0      0 10.20.0.13:59716            209.54.182.89:443           ESTABLISHED 6489/ssm-session-wo
+tcp        0      0 10.20.0.13:52226            52.46.146.146:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:59804            209.54.182.89:443           ESTABLISHED 6632/ssm-session-wo
+tcp        0      0 10.20.0.13:48844            52.46.132.109:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:47710            52.46.145.233:443           TIME_WAIT   -
+tcp        0      0 10.20.0.13:59732            209.54.182.89:443           ESTABLISHED 6501/ssm-session-wo
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address               Foreign Address             State       PID/Program name
+tcp        0      0 10.20.0.13:59716            209.54.182.89:443           ESTABLISHED 6489/ssm-session-wo
+tcp        0      0 10.20.0.13:52226            52.46.146.146:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:59804            209.54.182.89:443           ESTABLISHED 6632/ssm-session-wo
+tcp        0      0 10.20.0.13:48844            52.46.132.109:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:47710            52.46.145.233:443           TIME_WAIT   -
+tcp        0      0 10.20.0.13:59732            209.54.182.89:443           ESTABLISHED 6501/ssm-session-wo
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address               Foreign Address             State       PID/Program name
+tcp        0      0 10.20.0.13:59716            209.54.182.89:443           ESTABLISHED 6489/ssm-session-wo
+tcp        0      0 10.20.0.13:52226            52.46.146.146:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:59804            209.54.182.89:443           ESTABLISHED 6632/ssm-session-wo
+tcp        0      0 10.20.0.13:48844            52.46.132.109:443           ESTABLISHED 1725/amazon-ssm-age
+tcp        0      0 10.20.0.13:47710            52.46.145.233:443           TIME_WAIT   -
+tcp        0      0 10.20.0.13:59732            209.54.182.89:443           ESTABLISHED 6501/ssm-session-wo

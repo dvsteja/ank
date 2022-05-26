@@ -1,0 +1,68 @@
+[Object Data -html tag]:
+---------------------
+1. https://stackoverflow.com/questions/4642681/simple-way-to-display-data-in-a-txt-file-on-a-webpage
+	<object data="https://www.w3.org/TR/PNG/iso_8859-1.txt" width="300" height="200">Not supported</object>
+2. https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_object_video
+3. https://www.w3schools.com/tags/tag_object.asp
+
+
+[Refresh Html Page every 5secs]:
+-----------------------------
+1. https://stackoverflow.com/questions/2787679/how-to-reload-page-every-5-seconds
+	<meta http-equiv="refresh" content="5; URL=http://www.yourdomain.com/yoursite.html">
+
+[icons-attribution-free]:
+-----------------------
+1. https://www.iconpacks.net/free-icon/website-4946.html
+2. https://www.quora.com/Where-can-I-get-free-web-icons-for-commercial-use-without-paying-credits-signon-leaving-an-authorship-link-or-anything-else
+3. https://uxwing.com/
+
+[upload image and fetch the color out]:
+------------------------------------
+1. https://imagecolorpicker.com/en
+
+[body-style-bgcolor]:
+-------------------
+1. https://www.w3schools.com/cssref/tryit.asp?filename=trycss_background-color
+2. https://www.w3schools.com/cssref/pr_background-color.asp
+
+[img-src-html]:
+-------------
+1. https://www.w3schools.com/html/html_basic.asp
+
+[tcpdump-to-dump the traffic tcp]:
+--------------------------------
+	ifconfig -> check the adapter (here it's eth0)
+	tcpdump -i eth0 -c 5 -nn tcp >> file.out ---> for top 5
+	tcpdump -i eth0 -nn tcp >> file.out ---> for continuous listening
+
+  Note: the traffic is getting filled at 1mb/min (for the file.ot). It takes around 16hrs to become 1gb. So thought of flushing it every 12hrs to save space
+
+[check size of file in human-readable format]:
+-------------------------------------------
+	ls -lh
+
+
+[netstat]:
+--------
+1. https://www.linuxhelp.com/how-to-use-netstat-command-for-managing-linux-networks
+	install -> apt install net-tools
+	netstat -ptu
+	netstat -an
+	netstat -a
+	netstat -ant
+	netstat -ntlp
+	netstat -nlpt
+	netstat -npt
+	watch 'netstat-npt' ---> to watch it live
+	netstat -npt -c ---> to continuously list evey second
+	netstat -npt -c >> file.out
+
+[Installing Apache]:
+-------------------
+1. https://linuxways.net/ubuntu/how-to-install-apache-web-server-on-linux/
+	sudo apt-get install apache2
+	apache2 -v
+	systemctl status apache2
+	systemctl start apache2
+	<place files in /var/www/html/<index.html>>
