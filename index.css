@@ -1,0 +1,96 @@
+.incoming_connections {
+    width: 20em;
+    margin-left: 7.5em
+}
+
+.outgoing_connections {
+    width: 20em;
+    margin-left: 20em
+}
+
+.incoming_process {
+    width:20em;
+    margin-left:32em
+}
+
+.outgoing_process {
+    width: 20em;
+    margin-left: 43em
+
+}
+
+.twoway_process {
+    width: 30em;
+    margin-left: 53em
+}
+
+body {
+    background-color: #121212;
+}
+
+img {
+    width: 5em;
+    height: 5em;
+    margin-top: 5em;
+    margin-left: 45em;
+}
+
+object {
+    width:20em;
+    margin-left: 44.5em;
+    margin-right: 10em;
+}
+
+.heading {
+    margin-left: 42.5em;
+    color: rgb(15, 128, 228);
+}
+
+.horizontal_text {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.text_block {
+    width: 100px;
+    float: left;
+    font-family: monospace;
+    color: rgb(115, 24, 24);
+    margin-left: 9em;
+}
+
+.display_text_connectionHeading {
+    margin-left: 20em; 
+    margin-top: 2em; 
+    color: aliceblue;
+}
+
+.display_text_processHeading {
+    margin-left: 60em; 
+    margin-top: 2em; 
+    color: aliceblue;
+}
+
+.horizontal_view {
+    width: 100%;
+    margin-top: 5em;
+}
+
+.block {
+    width: 10px;
+    float: left;
+    background-color: #121212;
+}
+
+.horizontal_line {
+    width: 100%;
+    margin-top: 27em;
+}
+
+.line_block {
+    width: 100px;
+    float: left;
+    font-family: monospace;
+    color: rgb(115, 24, 24);
+    margin-left: 9em;
+}
