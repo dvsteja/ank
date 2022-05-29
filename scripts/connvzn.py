@@ -20,6 +20,7 @@ try:
     os.remove("prc_fl_stat_znl.txt")
     os.remove("prc_fl_stat_znl.csv")
     os.remove("download.zip")
+    os.system("sh starter.py")
 except:
     pass
 
