@@ -20,7 +20,7 @@ try:
     os.remove("prc_fl_stat_znl.txt")
     os.remove("prc_fl_stat_znl.csv")
     os.remove("download.zip")
-    cmd = "sh starter.py"
+    cmd = "python3 starter.py"
     subprocess.Popen(cmd,shell=True)
 except:
     pass
