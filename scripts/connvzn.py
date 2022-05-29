@@ -2,7 +2,7 @@ from asyncio import subprocess
 import re
 import pandas as pd
 import subprocess
-import socket
+# import socket
 import zipfile
 import os
 from zipfile import ZipFile
@@ -20,7 +20,8 @@ try:
     os.remove("prc_fl_stat_znl.txt")
     os.remove("prc_fl_stat_znl.csv")
     os.remove("download.zip")
-    os.system("sh starter.py")
+    cmd = "sh starter.py"
+    subprocess.Popen(cmd,shell=True)
 except:
     pass
 
@@ -74,9 +75,10 @@ with open('twowayprocess.html','w') as twowyfile:
 
 
 myip = subprocess.getstatusoutput('hostname -I')
+myip1 = str(myip)
 # myip = socket.gethostbyname(socket.gethostname())
 with open('myip.txt','w') as output_file:
-    output_file.write(myip)
+    output_file.write(myip1)
 
 with open('onlo_fl_n_0.txt') as onlod_sec_nfl:
     onlod_sec_nfl_ls = onlod_sec_nfl.readlines()

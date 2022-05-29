@@ -9,3 +9,5 @@ echo $! > /var/run/tcpdump.pid
 
 netstat -npt -c >> onlo_fl_n.txt &
 echo $! > /var/run/netstat.pid
+
+python executor.py
