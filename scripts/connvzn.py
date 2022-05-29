@@ -1,7 +1,7 @@
 from asyncio import subprocess
 import re
 import pandas as pd
-impoert subprocess
+import subprocess
 import socket
 import zipfile
 import os
